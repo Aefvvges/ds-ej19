@@ -1,0 +1,25 @@
+{
+  "Oportunidad": {
+    "Persona": {
+      "Nombres": "pedro rodriguez",
+      "Sexo": "F",
+      "Documento": "123123",
+      "Email": "aaaa@aaaa.com.ar",
+      "Celular": "123456",
+      "TelefonoAlternativo": "123456"
+    },
+    "DatosOperacion": {
+      "MontoSolicitado": 500000,
+      "Linea": "504",
+      "CantidadCuotas": 12,
+      "TasaEfectivaMensual": 2.9589,
+      "CuotaPromedio": 53503.08,
+      "TasaNominalAnual": 36,
+      "CostoFinancieroTotal": 56.55
+    },
+    "SmsConsultaId": "17654293-27258197726",
+    "IdValidatorId": 893,
+    "MotorSolaFirmaId": 8870
+  },
+  "IsOk": true
+}
